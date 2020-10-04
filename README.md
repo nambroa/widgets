@@ -1,3 +1,6 @@
+React project about widgets. They include an Accordion, a Dropdown, a Wikipedia Search Engine and a Translator.
+This project was used to learn about Hooks, Navigation and Functional Components.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
